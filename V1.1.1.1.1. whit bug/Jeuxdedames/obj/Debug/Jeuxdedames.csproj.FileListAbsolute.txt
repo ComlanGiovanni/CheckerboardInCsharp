@@ -1,0 +1,6 @@
+D:\Bureau\Exo\Jeuxdedames\Jeuxdedames\bin\Debug\Jeuxdedames.exe.config
+D:\Bureau\Exo\Jeuxdedames\Jeuxdedames\bin\Debug\Jeuxdedames.exe
+D:\Bureau\Exo\Jeuxdedames\Jeuxdedames\bin\Debug\Jeuxdedames.pdb
+D:\Bureau\Exo\Jeuxdedames\Jeuxdedames\obj\Debug\Jeuxdedames.exe
+D:\Bureau\Exo\Jeuxdedames\Jeuxdedames\obj\Debug\Jeuxdedames.pdb
+D:\Bureau\Exo\Jeuxdedames\Jeuxdedames\obj\Debug\Jeuxdedames.csprojResolveAssemblyReference.cache
